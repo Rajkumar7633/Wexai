@@ -99,7 +99,11 @@ wexa-graph-app/
 └── README.md
 ```
 
-## 🚀 Setup Instructions
+## 🚀 Quick Start
+
+Want to get running in under 10 minutes? Check out the [SETUP.md](SETUP.md) quick start guide.
+
+## 🚀 Detailed Setup Instructions
 
 ### 1. Create CognoDB Cloud Instance
 
@@ -316,8 +320,4 @@ Set `BACKEND_URL` environment variable to point to the deployed backend.
 
 ## 📝 License
 
-This project was created as a take-home assignment for Wexa AI.
-
-## 🤝 Contributing
-
-This is a demonstration project for the Wexa AI assignment. For questions or feedback, please contact hr@wexa.ai.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
